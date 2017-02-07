@@ -6,7 +6,7 @@
 #include <string>
 #include <cmath>
 #include "picojson.h"
-#include "tclap/CmdLine.h"
+#include "CmdLine.h"
 
 #include "modelHandler.hpp"
 #include "convertRoutine.hpp"

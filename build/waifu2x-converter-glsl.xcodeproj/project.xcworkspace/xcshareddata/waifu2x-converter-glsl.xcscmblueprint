@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3553291A2634321AA737AE64883CB83499D60B6C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2775026BBBFD27CD2D0A39C31B08343D81314B94" : 9223372036854775807,
+    "3553291A2634321AA737AE64883CB83499D60B6C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D892DE36-0703-4CBB-97C6-42075798F344",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2775026BBBFD27CD2D0A39C31B08343D81314B94" : "",
+    "3553291A2634321AA737AE64883CB83499D60B6C" : "waifu2x-converter-glsl\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "waifu2x-converter-glsl",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "build\/waifu2x-converter-glsl.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ShinCurry\/animeloop.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2775026BBBFD27CD2D0A39C31B08343D81314B94"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ueshita\/waifu2x-converter-glsl.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3553291A2634321AA737AE64883CB83499D60B6C"
+    }
+  ]
+}
